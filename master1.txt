@@ -1,0 +1,17 @@
+This is the Second Git File..
+
+Git is a free and open source distributed version control 
+system designed to handle everything from small to very large projects 
+with speed and efficiency. Git is easy to learn and has a tiny footprint 
+with lightning fast performance.
+
+What is special about Git?
+One of the biggest advantages of Git is its branching capabilities. 
+Unlike centralized version control systems, Git branches are cheap and easy to merge.
+
+Who created Git?
+What is the Git version control system? – TechTarget Definition
+Linus Torvalds
+Linus Torvalds, creator of Linux, along with others in the Linux development community, 
+built and released Git in 2005. They undertook the project because there was a lack of 
+free and open source version control systems that could meet their requirements for Linux kernel development
